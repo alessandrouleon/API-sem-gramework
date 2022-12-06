@@ -1,2 +1,2 @@
-# API-sem-gramework
+# API-sem-framework
 api em nodeJS, docker e postgresSQL
