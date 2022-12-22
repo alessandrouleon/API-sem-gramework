@@ -5,7 +5,7 @@ class UserRepository {
     constructor() {
         this.client = client;
     }
-
+  
     async create({ name, username, email, password }) {
         const id = randomUUID();
         await this.client.query(
